@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "9d97b72e-bcb3-692a-23b9-4a4b5c8e6393",
+    "Name": "deletegreen",
+    "DBEngineType": 0,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1781089439000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}
