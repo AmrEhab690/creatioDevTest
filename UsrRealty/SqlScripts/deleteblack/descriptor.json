@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "602d91f8-4219-c0da-c8a8-0ec7ec56b2bc",
+    "Name": "deleteblack",
+    "DBEngineType": 0,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1781175814000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}
